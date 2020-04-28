@@ -1,0 +1,17 @@
+.btn-success{
+  background-color:pink;
+  color:black;
+  border-color: hotpink;
+}
+.jumbotron.home{
+  background: url("https://placeimg.com/1000/480/animals") no-repeat center center fixed;
+  background-size: cover;
+}
+.jumbotron.menu{
+  background: url("https://placeimg.com/1000/480/people") no-repeat center center fixed;
+  background-size: cover;
+}
+.jumbotron.contact{
+  background: url("https://placeimg.com/1000/480/nature") no-repeat center center fixed;
+  background-size: cover;
+}
